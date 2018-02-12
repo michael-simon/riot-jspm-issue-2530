@@ -44,14 +44,14 @@ SystemJS.config({
     "http": "npm:jspm-nodelibs-http@0.2.0",
     "https": "npm:jspm-nodelibs-https@0.2.2",
     "jsbn": "npm:jsbn@0.1.1",
-    "michael-simon/riot": "github:michael-simon/riot@3.8.1",
+    "michael-simon/riot": "github:michael-simon/riot@JSPM17Upgrade",
     "module": "npm:jspm-nodelibs-module@0.2.1",
     "net": "npm:jspm-nodelibs-net@0.2.1",
     "os": "npm:jspm-nodelibs-os@0.2.2",
     "path": "npm:jspm-nodelibs-path@0.2.3",
     "process": "npm:jspm-nodelibs-process@0.2.1",
     "querystring": "npm:jspm-nodelibs-querystring@0.2.2",
-    "riot": "github:michael-simon/riot@3.8.1",
+    "riot": "github:michael-simon/riot@JSPM17Upgrade",
     "stream": "npm:jspm-nodelibs-stream@0.2.1",
     "string_decoder": "npm:jspm-nodelibs-string_decoder@0.2.2",
     "systemjs": "npm:systemjs@0.21.0",
@@ -863,7 +863,7 @@ SystemJS.config({
         "builtin-status-codes": "npm:builtin-status-codes@3.0.0"
       }
     },
-    "github:michael-simon/riot@3.8.1": {
+    "github:michael-simon/riot@JSPM17Upgrade": {
       "map": {
         "riot-observable": "npm:riot-observable@3.0.0",
         "riot-compiler": "npm:riot-compiler@3.4.0",

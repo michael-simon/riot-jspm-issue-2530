@@ -1,7 +1,7 @@
 {
   "jspm": {
     "dependencies": {
-      "michael-simon/riot": "github:michael-simon/riot@3.8.1",
+      "michael-simon/riot": "github:michael-simon/riot@JSPM17Upgrade",
       "systemjs": "npm:systemjs@^0.21.0"
     },
     "devDependencies": {
