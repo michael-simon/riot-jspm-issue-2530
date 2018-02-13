@@ -4,6 +4,6 @@ After cloning:
 ```
 npm install jspm@beta
 jspm install
-cp riot\@JSPM17Upgrade.json jspm_packages/github/michael-simon/riot\@JSPM17Upgrade.json  
+jspm install github:michael-simon/riot\@JSPM17Upgrade.json -f -o ./riot\@JSPM17Upgrade.json
 jspm run test.js
 ```
